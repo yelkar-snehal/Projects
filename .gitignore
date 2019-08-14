@@ -1,0 +1,10 @@
+#not tracking these dirs
+/mydocs/*
+.vscode/
+
+#compiled source
+*.class
+*.o
+*.so
+
+
